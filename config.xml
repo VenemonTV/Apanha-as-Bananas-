@@ -2,8 +2,8 @@
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
     id          = "com.bananas.hmm"
-    versionCode = "10"
-    version     = "1.0.0" >
+    versionCode = "4"
+    version     = "1.1.0" >
 
 <!-- versionCode is optional and Android only -->
 
@@ -18,5 +18,5 @@
   </author>
 
   <icon src="icon.png" />
-
+  <preference name="Orientation" value="landscape" />
 </widget>
